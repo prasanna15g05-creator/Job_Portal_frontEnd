@@ -6,8 +6,8 @@ import JobPost from "/src/components/JobPost.jsx";
 import Applications from "/src/components/Applications.jsx";
 import Home from "/src/components/Home.jsx";
 import Login from "/src/components/Login.jsx";
-import EmpJobs from "../components/EmpJobs";
-import Profile from"/src/components/Profile";
+import EmpJobs from "/src/components/EmpJobs.jsx";
+import Profile from"/src/components/Profile.jsx";
 import EmployeeJobs from"/src/components/EmployeeJobs.jsx";
 function AppRouter(){
     return(
