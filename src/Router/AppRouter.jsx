@@ -6,6 +6,7 @@ import Applications from "/src/components/Applications.jsx";
 import Home from "/src/components/Home.jsx";
 import JobPost from "../components/Jobpost";
 import Profile from"/src/components/Profile.jsx";
+import EmpJobs from "../components/EmpJobs";
 import EmployeeJobs from"/src/components/EmployeeJobs.jsx";
 import Login from"../components/Login";
 function AppRouter(){
