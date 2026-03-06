@@ -2,7 +2,6 @@ import { Route,BrowserRouter,Routes} from "react-router-dom";
 import Employer from "/src/components/Employer.jsx";
 import Employee from "/src/components/Employee.jsx";
 import Contact from "/src/components/Contact.jsx";
-import JobPost from "/src/components/JobPost.jsx";
 import Applications from "/src/components/Applications.jsx";
 import Home from "/src/components/Home.jsx";
 import JobPost from "../components/Jobpost";
