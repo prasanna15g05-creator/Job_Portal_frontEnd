@@ -1,5 +1,5 @@
 import axios from "axios";  
-const API_URL="http://localhost:8080/applications";
+const API_URL="https://job-portal-frontend-6dv2.onrender.com/applications";
 const getAuthHeader=()=>{
     const token=localStorage.getItem("token");
     return{
